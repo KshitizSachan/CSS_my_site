@@ -1,0 +1,92 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+hr{
+  border: dotted #4FBDBA 6px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 6%;
+  margin : 50px auto;
+}
+h1{
+  color: #35858B;
+  font-size: 562.5%;
+ margin: 50px auto 0 auto ;
+ font-family: 'Sacramento',cursive;
+}
+h2{
+  color: #35858B;
+  font-size: 30px;
+  font-family: 'Montserrat',sans-serif;
+}
+h3{
+  color: #35858B;
+  font-family: 'Montserrat',sans-serif;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+   color: #35858B;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.skill_c{
+  float: left;
+  margin-right: 30px;
+  width: 35%;
+
+}
+.skill_java{
+  float: right;
+  margin-left: 100px;
+  width: 15%;
+}
+.skill_web{
+  float: left;
+  margin-right: 60px;
+  width: 35%;
+}
+.p_1{
+  margin-left: 200px;
+}
+
+.p_3{
+  margin-left: 300px;
+}
+.image_1{
+  padding-top: 50px;
+}
+.intro{
+  width: 30%;
+  margin:auto;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+.copyright{
+  font-size: 0.75rem;
+}
